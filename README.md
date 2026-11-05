@@ -6,6 +6,13 @@ A curated selection of client web applications designed and developed for Morocc
 
 ## Projects
 
+Each project below includes a self-contained, **sanitized React frontend demonstration**. The samples use fictional content and have no API client, backend code, client data, credentials, production configuration, or proprietary media.
+
+- [Caballus demo](./caballus/)
+- [Ratel demo](./ratel/)
+- [World Protection Morocco demo](./world-protection-morocco/)
+- [VINGTNEUF demo](./vingtneuf/)
+
 ### Caballus — PPE supplier platform
 
 A web application created for a company specializing in personal protective equipment (PPE).
